@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tensorflow.keras.utils.set_random_seed" />
+          <option value="tensorflow._api.v2.config.experimental.enable_op_determinism" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
